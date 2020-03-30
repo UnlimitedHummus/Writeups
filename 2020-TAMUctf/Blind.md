@@ -3,7 +3,7 @@ Write up of the challenge Blind from TAMUctf
 ## Recon
 I connected to `nc challenges.tamuctf.com 3424`
 
-I got back the promt `Execute:`
+I got back the prompt `Execute:`
 
 When Typing a command a number is returned. I figured out that this must be the Linux/ UNIX exit codes.
 
